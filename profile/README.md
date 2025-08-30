@@ -1,5 +1,5 @@
 # <img src="https://github.com/user-attachments/assets/aaee3094-6355-4e86-800e-64d5fd262eaf" align=center width=100> 
-> 사진 3장으로 뚝딱 만드는 AI 숏폼 광고, 뚝딱 • **백엔드** 레포지토리
+> 사진 3장으로 뚝딱 만드는 AI 숏폼 광고, 뚝딱
 
 # 💬 프로젝트 소개
 <img width="1920" height="1080" alt="10 Solution" src="https://github.com/user-attachments/assets/41fc0b7c-d88f-4680-b08f-5dbf51687187" />
