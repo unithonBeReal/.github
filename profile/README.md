@@ -13,9 +13,9 @@
 
 # 💻 기술 스택
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-ec2025?style=flat-square&logo=java&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/React%20Router-%23CA4245?style=flat-square&logo=react%20router&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
